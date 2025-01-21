@@ -33,7 +33,7 @@ TaskManagerPro is a robust and user-friendly web application designed to streaml
 ### Prerequisites
 - PHP 7.4+
 - MySQL 5.7+
-- Apache/Nginx Web Server
+- Xampp
 
 ### Installation
 1. **Clone the repository**:
